@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MoneyLover</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Menu đổi tiêu đề ở đây-->
+    <string name="menu_home">Khoản Thu</string>
+    <string name="menu_gallery">Khoản Chi</string>
+    <string name="menu_slideshow">Thống Kê</string>
+    <string name="menu_tools">Giới Thiệu</string>
+    <string name="menu_share">Chia Sẻ</string>
+    <string name="menu_send">Thoát</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="tab_text_1">Khoản Thu</string>
+    <string name="tab_text_2">Loại Thu</string>
+</resources>
